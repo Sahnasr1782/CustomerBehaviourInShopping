@@ -1,8 +1,8 @@
-# Customer Shopping Behavior Analysis
+# Customer Shopping Behaviour Analysis
 
 ## **Project Overview**
 
-This project analyzes customer shopping behavior using a publicly available dataset containing purchase, demographic, and behavioral information. The goal is to understand patterns in purchasing, discounts, subscription behavior, and product popularity. The cleaned data is stored in a **MySQL database** for further querying and analysis.
+This project analyzes customer shopping behaviour using a publicly available dataset containing purchase, demographic, and behavioural information. The goal is to understand patterns in purchasing, discounts, subscription behaviour, and product popularity. The cleaned data is stored in a **MySQL database** for further querying and analysis.
 
 > **Note:** The dataset (`customer_shopping_behavior.csv`) is **not original** and was obtained from a public repository on GitHub. It is used here solely for educational and analytical purposes.
 
@@ -39,7 +39,7 @@ The analysis is performed using **Python (pandas)** and **MySQL**, with results 
 * Revenue analysis by gender, age group, and purchase frequency.
 * Top products by average review rating and discount usage.
 * Customer segmentation: New, Returning, and Loyal.
-* Subscription behavior and correlation with repeat purchases.
+* Subscription behaviour and correlation with repeat purchases.
 * Purchase patterns by category and shipping type.
 
 
@@ -54,7 +54,7 @@ The analysis is performed using **Python (pandas)** and **MySQL**, with results 
 
 ## **Key Insights**
 
-* Analysis of **gender and age group purchasing behavior**.
+* Analysis of **gender and age group purchasing behaviour**.
 * Identification of **top-rated and most discounted products**.
 * Segmentation of customers into **New, Returning, and Loyal**.
 * Revenue contribution by **age group, subscription status, and purchase frequency**.
