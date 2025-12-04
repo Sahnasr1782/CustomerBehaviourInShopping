@@ -9,7 +9,6 @@ This project analyzes customer shopping behaviour using a publicly available dat
 The analysis is performed using **Python (pandas)** and **MySQL**, with results visualized to extract actionable insights for business decisions.
 
 
-
 ## **Project Workflow**
 
 ### **1. Data Loading**
@@ -42,15 +41,11 @@ The analysis is performed using **Python (pandas)** and **MySQL**, with results 
 * Subscription behaviour and correlation with repeat purchases.
 * Purchase patterns by category and shipping type.
 
-
-
 ## **Technologies & Tools**
 
 * **Python**: pandas, Jupyter Notebook
 * **MySQL**: Workbench, SQL queries, database storage
 * **SQLAlchemy / PyMySQL**: Connect Python to MySQL
-
-
 
 ## **Key Insights**
 
@@ -60,3 +55,19 @@ The analysis is performed using **Python (pandas)** and **MySQL**, with results 
 * Revenue contribution by **age group, subscription status, and purchase frequency**.
 * Insights into **repeat buyers and subscription correlation**.
 * Understanding **purchase patterns by category and shipping type**.
+
+## **Key Takeaways**
+
+* Loyal and returning customers drive most revenue.
+* Discounts effectively boost purchases, especially for high-demand products.
+* Subscribers spend more and are often repeat buyers.
+* Clothing and footwear are the most profitable categories.
+* Middle-aged adults are the top revenue-generating demographic.
+
+## **Business Recommendations**
+
+* **Retention:** Offer loyalty rewards and targeted campaigns for high-value customers.
+* **Discount Strategy:** Focus discounts on popular, high-volume products.
+* **Subscriptions:** Incentivize repeat buyers to subscribe for perks and personalized offers.
+* **Product Focus:** Prioritize marketing and inventory for clothing and footwear.
+* **Engagement:** Target low-frequency buyers with tailored promotions.
