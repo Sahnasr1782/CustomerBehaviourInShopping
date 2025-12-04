@@ -60,5 +60,3 @@ The analysis is performed using **Python (pandas)** and **MySQL**, with results 
 * Revenue contribution by **age group, subscription status, and purchase frequency**.
 * Insights into **repeat buyers and subscription correlation**.
 * Understanding **purchase patterns by category and shipping type**.
-
--
